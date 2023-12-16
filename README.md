@@ -26,6 +26,4 @@ The tool contains: <br /><br />
 * * *
 <br /><br />
 To install the tool:
-```
-git clone https://github.com/a-swaggy-king/Hacking-set/
-```
+ ` git clone https://github.com/a-swaggy-king/Hacking-set/ `
