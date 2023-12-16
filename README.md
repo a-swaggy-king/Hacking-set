@@ -25,6 +25,6 @@ The tool contains: <br /><br />
                   file signature creater and varifier.<br /><br />
 * * *
 <br /><br />
-To install the tool ``` bash
+To install the tool ``` sh
  git clone https://github.com/a-swaggy-king/Hacking-set/
  ```
